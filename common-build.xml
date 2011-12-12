@@ -45,7 +45,7 @@
   <property name="compatibility.tag" value="lucene_2_4_back_compat_tests_20090911"/>
   <property name="spec.version" value="${version}"/>	
   <property name="year" value="2000-${current.year}"/>
-  <property name="final.name" value="lucene-${name}-${version}"/>
+  <property name="final.name" value="lucene-solbase-${name}-${version}"/>
 
   <property name="junit.jar" value="junit-3.8.2.jar"/>
   <property name="junit-location.jar" value="${common.dir}/lib/${junit.jar}"/>
